@@ -13,4 +13,5 @@
 ### Contato:
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-tavano-5354301b9)
+- <a href="https://www.linkedin.com/in/guilherme-tavano-5354301b9" target="_blank">LinkedIn</a>
 
