@@ -1,4 +1,4 @@
-## <h2 align="center"> Guilherme Tavano dos Santos </h2>
+## <h2 align="center">Olá:wave:, eu sou o Guilherme Tavano dos Santos </h2>
 
 <br>
 
