@@ -5,8 +5,8 @@
 
 ### :desktop_computer:Formação:
 
-- Técnico em Informática para Internet (2018 - 2020)
 - Tecnólogo em Análise Desenvolvimento de Sistemas (2021 - 2023)
+- Técnico em Informática para Internet (2018 - 2020)
 
 
 
